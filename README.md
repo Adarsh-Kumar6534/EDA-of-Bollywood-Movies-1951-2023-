@@ -19,7 +19,7 @@ This project begins with importing the **Bollywood Movie Dataset (1951–2023)**
 - `Genre` – Movie genre(s)  
 - `Synopsis` – Short description of the storyline  
 - `Director` – Name(s) of the director(s)  
-- `Cast` – Main actors and actresses featured  
+- `Cast` – Main actors and actresses featured
 
 ### 🛠️ How the Data is Loaded:
 The dataset is read using **Pandas**, a powerful Python library for data analysis.
